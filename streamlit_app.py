@@ -1,1 +1,3 @@
-py
+import streamlit
+
+streamlit.title('xy')
